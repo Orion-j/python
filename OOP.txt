@@ -1,0 +1,14 @@
+@OOP is a set of programming principles.
+And it deals with objects rather than lone-standing data and lone-standing procedures.
+Bundles data with functionality to create objects that interact with one another.
+
+#Classes are used to create objects
+#Objects(variables assigned to classes) are made up of Attributes and Methods.
+Attribute(variables with the "self".prefix) represent data(features and characteristics)
+about the object.
+Method(functions inside a class) represents functionalities of the object.
+
+__init__ method; why significant
+# where initialise all attributes.
+#automatically executed with every new class instance.
+#it is reserved name. It has self parameter.
