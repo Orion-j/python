@@ -2,21 +2,20 @@
 Beginner-friendly <br>
 
 > *Basic Syntax*
-```
+```python
 print("100 days of good code!")
 ```
 
 > *loop*
-```
+```python
 //guess the answer
 for number in rang(0, 11):
   if number % 2 == 0:
-     print(number) 
-     number = 2, 4, 6, 8, etc...
+     print(number) //number = 2, 4, 6, 8, etc...
 ```
 
 > Accessing elements in a list/array etc
-```
+```python
 arrList = [1, 2, 3, 4, 5, 6]
 for arr in arrList:
   print(arr)
