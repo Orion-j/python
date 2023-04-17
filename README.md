@@ -28,6 +28,10 @@ Which comprises of daily task, some assignment given, and  Data Structures & Alg
 These are very basic and also beginner-friendly programs.<br>
 Don't hesitate to contribute, code-wise, typography etc. Let's make this repo one that is a go-to for any python beginner<br>
 
+### Navigating through the Repo (./..)
+There are subfolders in the individual main folders, do take time to thoroughly access your preferred topic.
+Care will be taken to add every bit of info to guide through the learning journey.
+
 ## Projects
 Soon enough engaging projects will be added along with some practical day-to-day problems & their solutions.
 
