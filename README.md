@@ -1,5 +1,6 @@
 # Python 🐍
-Beginner-friendly <br>
+Beginner-friendly for lovers & newbies of Python. <br>
+Getting Started with python made easy. 
 
 > *Basic Syntax*
 ```python
